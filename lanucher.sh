@@ -1,5 +1,6 @@
 cd desktop
 wget https://raw.githubusercontent.com/CharlotteFallices/brewMirror/master/install.sh
+mv install.sh.1 install.sh
 username=$(id -un)
 pathF=$(cd "$(dirname $0)";pwd)
 pathU=$(pwd)
