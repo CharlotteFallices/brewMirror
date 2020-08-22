@@ -1,3 +1,4 @@
+echo "**macOS Only!!!"
 cd desktop
 wget https://raw.githubusercontent.com/CharlotteFallices/brewMirror/master/install.sh
 mv install.sh.1 install.sh
